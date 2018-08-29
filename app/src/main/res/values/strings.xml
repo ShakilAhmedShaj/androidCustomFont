@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">androidCustomFont</string>
+    <string name="sample_text_1">Sample Text 1</string>
+    <string name="sample_text_2">Sample Text 2</string>
+    <string name="sample_text_3">Sample Text 3</string>
+
+</resources>
